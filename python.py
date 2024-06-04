@@ -1,9 +1,9 @@
-    # Passo a passo do projeto
+# Passo a passo do projeto
 
-    # 1. Abrir o sistema da empresa
-    # https://dlp.hashtagtreinamentos.com/python/intensivao/login
+# 1. Abrir o sistema da empresa
+# https://dlp.hashtagtreinamentos.com/python/intensivao/login
 
-    # Para instalar: comamand prompt --> pip install pyautogui
+# Para instalar: comamand prompt --> pip install pyautogui
 import pyautogui as py
 
 py.PAUSE = 0.5
